@@ -7,4 +7,4 @@ title: Home
 
 ###Behavioral Health Geographer
 
-####*Research Assistant Professor* at the Center for Health and Social Research at SUNY Buffalo State
+####*Research Assistant Professor* at the [Institute for Community Health Promotion](ichp.buffalostate.edu) at SUNY Buffalo State
