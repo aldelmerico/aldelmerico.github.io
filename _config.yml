@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            Al Delmerico, PhD
 tagline:          'Behavioral Health Geographer'
-description:      ''
+description:      'Using Maps and Data to Improve Health'
 url:              http://hyde.getpoole.com
 baseurl:          /
 
